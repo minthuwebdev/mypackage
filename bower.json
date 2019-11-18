@@ -1,0 +1,22 @@
+{
+  "name": "mypackage",
+  "authors": [
+    "Min Thu <tatkoneminthu@gmail.com>"
+  ],
+  "description": "Bower package test",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.1"
+  }
+}
